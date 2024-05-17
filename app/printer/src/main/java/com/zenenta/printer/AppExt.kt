@@ -1,5 +1,5 @@
 package com.zenenta.printer
 
-fun showPrinter(message:String){
+fun showLogD(message: String? = null) {
     println(message)
 }
